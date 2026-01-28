@@ -1,1 +1,1 @@
-🎓 # GraduationAdmissionPrediction
+ # GraduationAdmissionPrediction
