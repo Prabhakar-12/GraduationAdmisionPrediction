@@ -31,3 +31,17 @@ The dataset contains the following features:
    NumPy,
    Pandas and 
    Matplotlib
+
+*Project Workflow*
+
+Data loading and preprocessing
+
+Feature scaling and splitting
+
+Model building using Keras
+
+Model training and validation
+
+Performance evaluation
+
+Prediction of admission probability
