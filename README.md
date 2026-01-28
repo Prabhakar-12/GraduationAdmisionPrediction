@@ -22,3 +22,11 @@ The dataset contains the following features:
 | CGPA              | Undergraduate CGPA                          |
 | Research          | Research experience (0 = No, 1 = Yes)       |
 | Chance of Admit   | Probability of admission (0 to 1)           |
+
+🧠 Technologies & Libraries Used
+   TensorFlow
+   Keras
+   Scikit-learn
+   NumPy
+   Pandas
+   Matplotlib
