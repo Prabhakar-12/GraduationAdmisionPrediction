@@ -1,1 +1,1 @@
- # GraduationAdmissionPrediction
+ # Graduation Admission Prediction
