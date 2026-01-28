@@ -25,9 +25,9 @@ The dataset contains the following features:
 
 🧠 Technologies & Libraries Used:
 
-   TensorFlow
-   Keras
-   Scikit-learn
-   NumPy
-   Pandas
+   TensorFlow,
+   Keras,
+   Scikit-learn,
+   NumPy,
+   Pandas and 
    Matplotlib
