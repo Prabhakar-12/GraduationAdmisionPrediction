@@ -32,3 +32,21 @@ Scikit-learn
 NumPy
 
 Pandas
+
+## Project Workflow
+
+1.Data loading and preprocessing
+
+2.Feature scaling and splitting
+
+3.Model building using Keras
+
+4.Model training and validation
+
+5.Performance evaluation
+
+6.Prediction of admission probability
+
+## Model Output
+
+The model predicts the Chance of Admission as a continuous value between 0 and 1, representing the likelihood of admission.
