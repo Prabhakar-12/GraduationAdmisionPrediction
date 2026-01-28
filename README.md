@@ -23,7 +23,7 @@ The dataset contains the following features:
 | Research          | Research experience (0 = No, 1 = Yes)       |
 | Chance of Admit   | Probability of admission (0 to 1)           |
 
-🧠 Technologies & Libraries Used
+🧠 Technologies & Libraries Used <b>
    TensorFlow
    Keras
    Scikit-learn
